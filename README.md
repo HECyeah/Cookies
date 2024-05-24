@@ -6,3 +6,5 @@ Sources and websites used in the making of this fabulous cookie game:
 -	https://www.shecodes.io/athena/85664-how-to-add-transparency-to-color-background
 -	https://www.w3schools.com/howto/howto_css_image_center.asp.
 -	https://www.youtube.com/watch?v=uSJXZ3LkABE
+
+lets do this
